@@ -5,7 +5,6 @@
 - 👀 I’m interested in **Frontend and Backend Development**
 - 🌱 I’m currently learning **C and Java** University/Autodidact.
 - 📖 **Student** of the [Universidad Nacional del Oeste](https://www.uno.edu.ar/) in the university degree in **web technologies**.
-- 💞️ Everything is for "M"
 <br>
 
 ###
