@@ -3,7 +3,7 @@
 <br>
 
 - 👀 I’m interested in **Frontend and Backend Development**
-- 🌱 I’m currently learning **C and Java** University/Autodidact.
+- 🌱 I’m currently learning **C, Java and Python** University/Autodidact.
 - 📖 **Student** of the [Universidad Nacional del Oeste](https://www.uno.edu.ar/) in the university degree in **web technologies**.
 <br>
 
